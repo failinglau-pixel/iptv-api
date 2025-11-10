@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-10 06:23:52,http://171.116.216.113:10010/rtp/226.0.1.157:3086
+2025-11-10 18:32:39,http://171.116.216.113:10010/rtp/226.0.1.157:3086
 
 📺央视频道,#genre#
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
@@ -11,10 +11,10 @@ CETV-1,http://171.116.216.113:10010/rtp/226.0.2.181:9360
 📡卫视频道,#genre#
 
 ☘️广东频道,#genre#
-广东卫视,http://drive.mxmy.net:8888/udp/239.3.1.142:8048
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
+广东卫视,http://drive.mxmy.net:8888/udp/239.3.1.142:8048
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
+深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
