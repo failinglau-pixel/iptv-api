@@ -1,15 +1,16 @@
 🕘️更新时间,#genre#
-2025-11-16 06:21:32,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=cq
+2025-11-16 18:26:38,http://171.116.216.113:10010/rtp/226.0.1.157:3086
 
 📺央视频道,#genre#
-CCTV-1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=cq
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
+CCTV-1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=cq
 CCTV-2,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=cq
+CCTV-4,http://120.46.223.160/PHP/MG.php?id=608807416
 CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=cq
+CCTV-7,http://120.46.223.160/PHP/MG.php?id=673168121
 CCTV-7,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=cq
 CCTV-9,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=gq
 CCTV-10,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv10&q=cq
-CCTV-10,http://61.184.46.85:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12&q=gq
 CCTV-13,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv13&q=gq
 CCTV-17,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv17&q=gq
@@ -22,6 +23,7 @@ CETV-1,http://171.116.216.113:10010/rtp/226.0.2.181:9360
 
 ☘️广东频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+广东卫视,http://61.184.46.85:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 
@@ -57,14 +59,15 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
+纬来电影,http://orz.jkun.cf/smt.php?id=videolandmovie
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
-IPTV经典电影,http://113.88.211.3:9898/hls/71/index.m3u8
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 星空卫视,http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
+东森洋片,http://orz.jkun.cf/smt.php?id=ettvwestern
 
 🎥咪咕直播,#genre#
 
