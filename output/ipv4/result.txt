@@ -1,9 +1,7 @@
 🕘️更新时间,#genre#
-2026-01-03 18:29:10,http://btjg.net:809/hls/4/index.m3u8
+2026-01-04 06:27:21,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 
 📺央视频道,#genre#
-CCTV-4,http://btjg.net:809/hls/4/index.m3u8
-CCTV-9,https://v4-7b232e9a7ece13f936b4e19cb1594132.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=5ce653679128614e5f2a5f9fe7008c67
 CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 
@@ -13,9 +11,7 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 
 ☘️广东频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-大湾区卫视,http://rihou.cc:555/tv/[AtI]广东湾区
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
-深圳卫视,http://222.214.208.34:59901/tsfile/live/0126_1.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,http://rihou.cc:555/tv/[Pd]无线翡翠
