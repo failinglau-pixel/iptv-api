@@ -1,21 +1,23 @@
 🕘️更新时间,#genre#
-2026-01-31 06:34:25,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+2026-01-31 18:33:25,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 
 📺央视频道,#genre#
 CCTV-1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 CCTV-2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
-CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
 CCTV-2,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
 CCTV-3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
+CCTV-4,http://113.25.252.226:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
-CCTV-5,http://23.237.228.134/live5/CCTV5p.m3u8
 CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 CCTV-6,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
+CCTV-6,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHY2Lm0zdTg=
 CCTV-7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
 CCTV-8,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
 CCTV-9,http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
 CCTV-10,http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
+CCTV-10,http://113.25.252.226:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12,http://23.237.228.134/live3/CCTV12.m3u8
 CCTV-13,http://pull-f3.douyincdn.com/media/stream-695180860228633260.m3u8?arch_hrchy=w1&auth_key=1770012985-0-0-ff9ee4b3a63b6442d68acb5c221d05b4&exp_hrchy=w1&major_anchor_level=common&t_id=037-202601261446245C5B02B57E2169287B08-jDQsKk
 CCTV-14,http://23.237.228.134/live3/CCTV14.m3u8
@@ -31,11 +33,11 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 📡卫视频道,#genre#
 
 ☘️广东频道,#genre#
-广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 广东卫视,http://23.237.228.134/live6/guangdong.m3u8
-深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
+深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
 
 🌊港·澳·台,#genre#
