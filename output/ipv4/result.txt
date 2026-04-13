@@ -1,16 +1,16 @@
 🕘️更新时间,#genre#
-2026-04-13 19:24:10,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
+2026-04-14 06:54:34,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 
 📺央视频道,#genre#
 CCTV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 CCTV-1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 CCTV-1,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV1
 CCTV-1,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV1
-CCTV-2,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 CCTV-2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
+CCTV-2,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 CCTV-2,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV2
-CCTV-3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 CCTV-3,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV3
+CCTV-3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 CCTV-3,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV3
 CCTV-4,http://107.150.60.122/live/cctv4hd.m3u8
 CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
@@ -24,38 +24,35 @@ CCTV-5+,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV5p
 CCTV-6,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
 CCTV-6,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV6
 CCTV-7,http://107.150.60.122/live/cctv7hd.m3u8
-CCTV-7,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV7
 CCTV-7,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV7
-CCTV-8,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd
+CCTV-7,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV7
 CCTV-8,http://107.150.60.122/live/cctv8k.m3u8
+CCTV-8,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd
 CCTV-8,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
 CCTV-8,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV8
 CCTV-8,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV8
-CCTV-10,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV10
 CCTV-10,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV10
+CCTV-10,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV10
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-11,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV11
 CCTV-11,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV11
-CCTV-12,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd
-CCTV-12,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV12
 CCTV-12,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV12
+CCTV-12,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV12
+CCTV-12,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd
 CCTV-13,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV13
 CCTV-13,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV13
 CCTV-14,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV14
-CCTV-15,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV15
 CCTV-15,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV15
-CCTV-16,http://107.150.60.122/live/cctv16hd.m3u8
+CCTV-15,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV15
 CCTV-16,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd
+CCTV-16,http://107.150.60.122/live/cctv16hd.m3u8
 CCTV-16,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV14
 CCTV-17,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
-CCTV-17,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV17
 CCTV-17,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV17
+CCTV-17,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV17
 CETV-1,http://154.37.212.176/ysp.php?pid=600171827&id=2022823801
 
 💰央视付费频道,#genre#
-第一剧场,http://171.116.254.184:9003/hls/60/index.m3u8
-风云剧场,http://171.116.254.184:9003/hls/61/index.m3u8
-怀旧剧场,http://171.116.254.184:9003/hls/58/index.m3u8
 
 📡卫视频道,#genre#
 
