@@ -1,30 +1,42 @@
 🕘️更新时间,#genre#
-2026-05-29 07:23:55,http://198.204.228.26/live/cctv5p.m3u8
+2026-05-29 20:54:14,http://182.61.15.84:80/624878271
 
 📺央视频道,#genre#
+CCTV-3,http://182.61.15.84:80/624878271
 CCTV-5,http://198.204.228.26/live/cctv5p.m3u8
+CCTV-5,http://221.13.235.54:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://182.61.15.84:80/641886683
 CCTV-5+,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
 CCTV-6,http://198.204.228.26/live/cctv6hd.m3u8
+CCTV-7,http://182.61.15.84:80/673168121
+CCTV-7,http://221.13.235.54:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8,http://198.204.228.26/live/cctv8hd.m3u8
+CCTV-8,http://182.61.15.84:80/624878356
 CCTV-9,https://live.264788.xyz/channel/cctv9?streamid=965471f22871b869185fa44895550cf6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-10,https://live.264788.xyz/channel/cctv10?streamid=53ba5973e313102776c533632a495108&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-10,http://192.151.150.154/live/cctv10hd.m3u8
 CCTV-10,http://207.56.13.146:81/cdnlive/cctv10.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-10,http://www.negative.top:50000/rtp/233.50.200.22:5140
+CCTV-10,http://182.61.15.84:80/624878405
+CCTV-11,http://www.negative.top:50000/rtp/233.50.200.132:5140
 CCTV-12,http://198.204.228.26/live/cctv12hd.m3u8
-CCTV-13,https://live.264788.xyz/channel/cctv13?streamid=18337d7a8a925fefa6736f2af5f779a5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-12,http://120.202.94.181:9446/tsfile/live/0012_1.m3u8?key=txiptv
 CCTV-14,http://198.204.228.26/live/cctv14hd.m3u8
+CCTV-14,http://182.61.15.84:80/624878440
+CCTV-15,http://221.13.235.54:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
+CETV-4,http://182.61.15.84:80/923287339
 
 💰央视付费频道,#genre#
 风云音乐,http://207.56.13.146:81/cdnlive/fyyy.m3u8
-第一剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc
 第一剧场,http://207.56.13.146:81/cdnlive/dyjc.m3u8
-风云足球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq
+第一剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc
+风云剧场,http://107.150.60.122/live/fyjc.m3u8
 风云足球,http://107.150.60.122/live/fyzq.m3u8
+风云足球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq
 世界地理,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
+世界地理,http://192.151.150.154/live/sjdl.m3u8
 
 📡卫视频道,#genre#
 
@@ -32,8 +44,9 @@ CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 广东卫视,https://live.264788.xyz/channel/guangdongweishi?streamid=cb79f80b1c81ba01a6cc0f96cb127c4a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 广东卫视,http://207.56.13.146:81/cdnlive/gdws.m3u8
 广东卫视,http://198.204.228.26/live/gdwshd.m3u8
-深圳卫视,http://192.151.150.154/live/szwshd.m3u8
+广东卫视,http://58.56.162.102:4466/newlive/live/hls/25/live.m3u8
 深圳卫视,http://207.56.13.146:81/cdnlive/szws.m3u8
+深圳卫视,http://192.151.150.154/live/szwshd.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,rtmp://223.76.215.33/live/xaingjiaoge-jade
