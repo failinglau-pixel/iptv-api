@@ -1,26 +1,19 @@
 🕘️更新时间,#genre#
-2026-06-02 00:12:11,http://fuxin.yunjifei.top:999/tsfile/live/0001_1.m3u8?key=txiptv
+2026-06-02 07:41:12,http://www.negative.top:50000/rtp/233.50.200.101:5140
 
 📺央视频道,#genre#
-CCTV-1,http://fuxin.yunjifei.top:999/tsfile/live/0001_1.m3u8?key=txiptv
-CCTV-3,http://183.129.255.66:8480/hls/3/index.m3u8
 CCTV-4,http://www.negative.top:50000/rtp/233.50.200.101:5140
 CCTV-5,http://198.204.228.26/live/cctv5p.m3u8
 CCTV-5+,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
-CCTV-6,http://fuxin.yunjifei.top:999/tsfile/live/0006_1.m3u8?key=txiptv
 CCTV-7,https://live.264788.xyz/channel/cctv7?streamid=3486ebf3d4e652ede40ade48d653f610&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-8,http://198.204.228.26/live/cctv8hd.m3u8
-CCTV-8,http://223.75.149.129:9906/tsfile/live/0008_1.m3u8?key=txiptv
 CCTV-9,https://live.264788.xyz/channel/cctv9?streamid=965471f22871b869185fa44895550cf6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-10,http://192.151.150.154/live/cctv10hd.m3u8
 CCTV-10,http://207.56.13.146:81/cdnlive/cctv10.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-10,http://223.75.149.129:9906/tsfile/live/0010_1.m3u8?key=txiptv
 CCTV-10,https://live.264788.xyz/channel/cctv10?streamid=53ba5973e313102776c533632a495108&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-11,http://198.204.228.26/live/cctv11hd.m3u8
 CCTV-12,http://198.204.228.26/live/cctv12hd.m3u8
-CCTV-13,http://fuxin.yunjifei.top:999/tsfile/live/0013_1.m3u8?key=txiptv
-CCTV-13,http://118.193.115.2:9901/tsfile/live/0013_1.m3u8?key=txiptv
 CCTV-14,http://198.204.228.26/live/cctv14hd.m3u8
 CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=f9c36f1e95b5b35eac89cc89583e7c0a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
@@ -32,8 +25,8 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 📡卫视频道,#genre#
 
 ☘️广东频道,#genre#
-广东卫视,https://live.264788.xyz/channel/guangdongweishi?streamid=cb79f80b1c81ba01a6cc0f96cb127c4a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 广东卫视,http://207.56.13.146:81/cdnlive/gdws.m3u8
+广东卫视,https://live.264788.xyz/channel/guangdongweishi?streamid=cb79f80b1c81ba01a6cc0f96cb127c4a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 深圳卫视,http://207.56.13.146:81/cdnlive/szws.m3u8
 
 🌊港·澳·台,#genre#
@@ -53,6 +46,8 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
+IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
+IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
 
 🎥咪咕直播,#genre#
 
