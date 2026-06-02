@@ -1,23 +1,32 @@
 🕘️更新时间,#genre#
-2026-06-02 07:41:12,http://www.negative.top:50000/rtp/233.50.200.101:5140
+2026-06-02 22:14:15,http://fuxin.yunjifei.top:999/tsfile/live/0002_1.m3u8?key=txiptv
 
 📺央视频道,#genre#
+CCTV-2,http://fuxin.yunjifei.top:999/tsfile/live/0002_1.m3u8?key=txiptv
+CCTV-2,http://221.193.168.7:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://fuxin.yunjifei.top:999/tsfile/live/0003_1.m3u8?key=txiptv
 CCTV-4,http://www.negative.top:50000/rtp/233.50.200.101:5140
+CCTV-4,http://fuxin.yunjifei.top:999/tsfile/live/0004_1.m3u8?key=txiptv
 CCTV-5,http://198.204.228.26/live/cctv5p.m3u8
+CCTV-5,http://fuxin.yunjifei.top:999/tsfile/live/0005_1.m3u8?key=txiptv
 CCTV-5+,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
-CCTV-7,https://live.264788.xyz/channel/cctv7?streamid=3486ebf3d4e652ede40ade48d653f610&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-7,http://223.75.149.129:9906/tsfile/live/0007_1.m3u8?key=txiptv
+CCTV-7,http://221.193.168.7:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8,http://198.204.228.26/live/cctv8hd.m3u8
-CCTV-9,https://live.264788.xyz/channel/cctv9?streamid=965471f22871b869185fa44895550cf6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-9,https://live.264788.xyz/channel/cctv9?streamid=556ccb45c4511efcbc1ed351b4b5651a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-9,http://www.negative.top:50000/rtp/233.50.200.23:5140
 CCTV-10,http://192.151.150.154/live/cctv10hd.m3u8
 CCTV-10,http://207.56.13.146:81/cdnlive/cctv10.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-10,https://live.264788.xyz/channel/cctv10?streamid=53ba5973e313102776c533632a495108&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-11,http://198.204.228.26/live/cctv11hd.m3u8
+CCTV-11,http://221.13.235.142:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12,http://198.204.228.26/live/cctv12hd.m3u8
 CCTV-14,http://198.204.228.26/live/cctv14hd.m3u8
-CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=f9c36f1e95b5b35eac89cc89583e7c0a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
+CCTV-14,http://221.193.168.7:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15,http://221.13.235.142:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=6553344335ee5b54198e5392ff03305a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
+CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 
 💰央视付费频道,#genre#
 第一剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc
@@ -26,7 +35,7 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 
 ☘️广东频道,#genre#
 广东卫视,http://207.56.13.146:81/cdnlive/gdws.m3u8
-广东卫视,https://live.264788.xyz/channel/guangdongweishi?streamid=cb79f80b1c81ba01a6cc0f96cb127c4a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+大湾区卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nfws
 深圳卫视,http://207.56.13.146:81/cdnlive/szws.m3u8
 
 🌊港·澳·台,#genre#
@@ -39,7 +48,6 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 凤凰香港,http://115.44.140.170:18180/TV00000000000000000024@HHZT
 
 🎬电影频道,#genre#
-CHC动作电影,https://live.264788.xyz/channel/chcdongzuodianying?streamid=87c13b6e841ed5039d4c2ce8f266f9ef&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
@@ -47,7 +55,6 @@ CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
-IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
 
 🎥咪咕直播,#genre#
 
