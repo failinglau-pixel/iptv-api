@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-01 20:39:37,http://www.negative.top:50000/rtp/233.50.200.109:5140
+2026-07-02 07:21:35,http://www.negative.top:50000/rtp/233.50.200.109:5140
 
 📺央视频道,#genre#
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
