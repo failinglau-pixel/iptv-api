@@ -1,11 +1,19 @@
 🕘️更新时间,#genre#
-2026-07-11 19:12:35,http://www.negative.top:50000/rtp/233.50.200.109:5140
+2026-07-12 06:57:26,http://www.negative.top:50000/rtp/233.50.200.109:5140
 
 📺央视频道,#genre#
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
+CCTV-6,http://115.48.161.108:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7,http://115.48.161.108:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8,http://115.48.161.108:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-10,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
+CCTV-10,http://115.48.161.108:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11,http://125.42.148.50:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11,http://115.48.161.108:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://115.48.161.108:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15,http://115.48.161.108:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 
 💰央视付费频道,#genre#
 兵器科技,http://192.151.150.154/live/gfjs.m3u8
@@ -13,7 +21,6 @@ CCTV-10,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 📡卫视频道,#genre#
 
 ☘️广东频道,#genre#
-深圳卫视,http://182.37.41.46:8154/tsfile/live/0126_1.m3u8?key=txiptv
 
 🌊港·澳·台,#genre#
 翡翠台,rtmp://223.76.215.33/live/xaingjiaoge-jade
