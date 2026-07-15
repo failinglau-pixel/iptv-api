@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-15 19:40:44,http://www.negative.top:50000/rtp/233.50.200.109:5140
+2026-07-16 07:03:39,http://www.negative.top:50000/rtp/233.50.200.109:5140
 
 📺央视频道,#genre#
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
@@ -15,7 +15,6 @@ CCTV-13,http://pull-hls-f1.douyinliving.com/media/stream-696107587393815378/play
 📡卫视频道,#genre#
 
 ☘️广东频道,#genre#
-深圳卫视,http://58.56.162.102:4466/newlive/live/hls/24/live.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,rtmp://223.76.215.33/live/xaingjiaoge-jade
