@@ -1,26 +1,23 @@
 🕘️更新时间,#genre#
-2026-07-27 07:04:39,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
+2026-07-27 21:16:37,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
 
 📺央视频道,#genre#
 CCTV-2,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
-CCTV-5,http://120.201.232.170:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-5-HD-265-8M/G_CCTV-5-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
 CCTV-5,http://60.4.29.80:8077/rtp/239.253.92.181:6046
-CCTV-5,http://1.192.240.185:8188/rtp/239.16.20.53:10530
-CCTV-5,http://112.192.72.188:8484/rtp/239.0.0.14:5140
-CCTV-5,http://39.77.163.221:4002/rtp/239.253.254.192:8000
 CCTV-5,http://112.192.73.95:8484/rtp/239.0.0.14:5140
-CCTV-5,http://183.164.237.86:8888/rtp/238.1.78.171:7240
-CCTV-5,http://39.77.159.145:4002/rtp/239.253.254.192:8000
+CCTV-5,http://112.192.72.188:8484/rtp/239.0.0.14:5140
 CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
+CCTV-5,http://39.77.163.221:4002/rtp/239.253.254.192:8000
+CCTV-5,http://39.77.159.145:4002/rtp/239.253.254.192:8000
 CCTV-5,http://39.77.158.228:4002/rtp/239.253.254.192:8000
+CCTV-5,http://114.226.212.135:8787/rtp/239.49.1.5:6000
+CCTV-5,http://114.226.212.140:8787/rtp/239.49.1.5:6000
+CCTV-5,http://183.164.237.86:8888/rtp/238.1.78.171:7240
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
-CCTV-6,http://121.19.134.22:808/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-10,http://198.204.228.26/live/cctv10hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-10,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
-CCTV-11,http://121.19.134.253:808/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-16,http://120.201.232.170:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-16-4K/G_CCTV-16-4K.m3u8?p=GITV&area=JS_CMCC_CP
 
 💰央视付费频道,#genre#
 兵器科技,http://192.151.150.154/live/gfjs.m3u8
@@ -28,8 +25,6 @@ CCTV-16,http://120.201.232.170:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-16
 📡卫视频道,#genre#
 
 ☘️广东频道,#genre#
-广东卫视,http://120.201.232.170:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_GUANGDONG-HD-265-8M/G_GUANGDONG-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
-深圳卫视,http://120.201.232.170:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_SHENZHEN-HD-265-8M/G_SHENZHEN-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
 
 🌊港·澳·台,#genre#
 翡翠台,rtmp://223.76.215.33/live/xaingjiaoge-jade
@@ -43,10 +38,9 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
-IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
+IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
 
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-体育赛事,http://45.192.97.170:8880/play/4187.m3u8
